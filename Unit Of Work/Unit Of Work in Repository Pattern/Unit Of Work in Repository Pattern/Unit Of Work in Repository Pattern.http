@@ -1,0 +1,6 @@
+@Unit_Of_Work_in_Repository_Pattern_HostAddress = http://localhost:5231
+
+GET {{Unit_Of_Work_in_Repository_Pattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

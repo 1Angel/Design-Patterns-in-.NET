@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Unit Of Work in Repository Pattern.props" />
+</Project>
